@@ -22,8 +22,8 @@ module.exports = {
        '5xl': '3rem',
        '6xl': '4rem',
 
-      '7xl': ['14rem', {
-        lineHeight: '13rem',
+      '7xl': ['26rem', {
+        lineHeight: '22rem',
       }],
      },
     extend: {
